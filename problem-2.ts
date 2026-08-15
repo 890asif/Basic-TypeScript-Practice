@@ -1,10 +1,10 @@
-//primitive type 
-const productDetails =(name:string, price:number, isAvailable:boolean):string =>{
+// primitive type 
+// const productDetails =(name:string, price:number, isAvailable:boolean):string =>{
 
-    return `${name} cost ${price} and is available: ${isAvailable}`
-}
+//     return `${name} cost ${price} and is available: ${isAvailable}`
+// }
 
-console.log(productDetails("Laptop", 45000, true))
+// console.log(productDetails("Laptop", 45000, true))
 
 
 
